@@ -1,0 +1,4 @@
+This is a silly sentence.
+So is this, but it is longer.
+Can this be translated too?  Hurray, it can be translated!
+Well done, translater!
